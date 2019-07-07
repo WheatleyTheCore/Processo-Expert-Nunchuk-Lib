@@ -1,4 +1,4 @@
-# Processo-Expert-Nunchuk-Lib
+# Processor-Expert-Nunchuk-Lib
 A library for communicating with Wii Nunchuks in the CodeWarrior IDE
 
 ## Setting it up
