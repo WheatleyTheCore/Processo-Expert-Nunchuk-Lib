@@ -1,5 +1,5 @@
 # Processor-Expert-Nunchuk-Lib
-A library for communicating with Wii Nunchuks in the CodeWarrior IDE
+Wii Nunchuks are surprisingly awesome controllers for things. This is a library for communicating with them through microprocessors programmed using Processor Expert. 
 
 ## Setting it up
 
